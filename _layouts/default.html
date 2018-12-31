@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>CS 360: {{ page.title }}</title>
+		<link rel="stylesheet" href="{{ site.url }}/css/site.css" />
+		<link rel="stylesheet" href="{{ site.url }}/css/syntax.css" />
+	</head>
+
+	<body>
+		<div class="pageheader">
+			<h1><a href="{{ site.url }}/">CS 360</a>: {{ page.title }}</h1>
+		</div>
+		<div class="content">
+		{{ content }}
+		</div>
+
+		<div class="footer">
+			<a href="{{ site.url }}/README.html">Copyright (c) 2007-2019</a> | Unless indicated otherwise, content is freely-redistributable |
+			<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/80x15.png" /></a>
+		</div>
+	</body>
+</html>

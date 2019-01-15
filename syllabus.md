@@ -15,7 +15,7 @@ Class times:
 
 Instructor:
 
-[David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, KEC111 (815-6442) <br /> Office hours: TBD
+[David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, KEC111 (815-6442) <br /> Office hours: M 9-10AM, T 8:30-9:30AM, W 1-2PM, R 1-3PM, or by appointment
 
 Course Description
 ------------------

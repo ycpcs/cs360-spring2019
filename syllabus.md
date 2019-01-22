@@ -10,7 +10,7 @@ CS 360 - Analysis of Algorithms
 
 Class times:
 
-- Section 101, MWF 10:00 - 10:50AM in KEC 119
+- Section 101, MWF 10:00 - 10:50AM in KEC 124
 - Section 102, MWF 11:00 - 11:50AM in KEC 124
 
 Instructor:

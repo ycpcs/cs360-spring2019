@@ -18,6 +18,7 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 23** - Welcome back!
+* **Feb 4** - Assignment 1 Due
 
 <!--
 * **Jan 29** - Assignment 1 Due

@@ -8,6 +8,7 @@ This page links to assignment descriptions.
 > Due Date |                Assignment                                | Solutions                                               |
 > -------- | -------------------------------------------------------- | ------------------------------------------------------- |
 > Feb 4    | [Assignment 1](../assign/assign01.html)                  | [Assignment 1 Solutions](../assign/sol/assign01sol.pdf) |
+> Feb 11   | [Assignment 2](../assign/assign02.html)                  |  |
 
 <!--
 > Feb 5    | [Assignment 2](../assign/assign02.html)                  |  |

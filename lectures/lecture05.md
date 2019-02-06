@@ -69,7 +69,7 @@ To apply the master theorem, the following procedure can be applied. Given the r
 4. Compare **f(n)** with **n<sup>log<sub>b</sub>a</sup>** to determine the proper case and write the solution to the recursive equation
     1. **Case 1:** If **f(n) = O(n<sup>log<sub>b</sub>a - ε</sup>)**, then **T(n) = Θ(n<sup>log<sub>b</sub>a</sup>)**
     2. **Case 2:** If **f(n) = Θ(n<sup>log<sub>b</sub>a</sup>)**, then **T(n) = Θ(n<sup>log<sub>b</sub>a</sup> lg n)**
-    3. **Case 3:** If **f(n) = Ω(n<sup>log<sub>b</sub>a + ε</sup>)**, **AND** **af(n/b) ≤ cf(n)**, then **T(n) = Θ(n<sup>log<sub>b</sub>a</sup> lg n)**
+    3. **Case 3:** If **f(n) = Ω(n<sup>log<sub>b</sub>a + ε</sup>)**, **AND** **af(n/b) ≤ cf(n)**, then **T(n) = Θ(f(n))**
 
 Examples
 ========

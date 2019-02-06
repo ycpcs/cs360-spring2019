@@ -56,6 +56,21 @@ Thus in all three cases it is important to compute the *recursive term run time*
 
 Note: There are gaps between the cases where the theorem cannot be applied (as well as recursive equations that **do not** fit the form required by the theorem **exactly**). In these cases, other techniques must be used which we will see next lecture.
 
+Procedure
+=========
+
+To apply the master theorem, the following procedure can be applied. Given the recursive equation 
+
+> ![image](images/lecture05/masterTheoremForm.png)
+
+1. Convert any asymptotic bounds to functional notation, e.g. **Θ(n<sup>2</sup>) &rArr; cn<sup>2</sup>**
+2. Identify **a**, **b**, and **f(n)**
+3. Compute **n<sup>log<sub>b</sub>a</sup>**
+4. Compare **f(n)** with **n<sup>log<sub>b</sub>a</sup>** to determine the proper case and write the solution to the recursive equation
+    1. **Case 1:** If **f(n) = O(n<sup>log<sub>b</sub>a - ε</sup>)**, then **T(n) = Θ(n<sup>log<sub>b</sub>a</sup>)**
+    2. **Case 2:** If **f(n) = Θ(n<sup>log<sub>b</sub>a</sup>)**, then **T(n) = Θ(n<sup>log<sub>b</sub>a</sup> lg n)**
+    3. **Case 3:** If **f(n) = Ω(n<sup>log<sub>b</sub>a + ε</sup>)**, **AND** **af(n/b) ≤ cf(n)**, then **T(n) = Θ(n<sup>log<sub>b</sub>a</sup> lg n)**
+
 Examples
 ========
 

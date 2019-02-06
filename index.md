@@ -18,7 +18,9 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 23** - Welcome back!
-* **Feb 4** - Assignment 1 Due
+* **Feb 4** - [Assignment 1](assign/assign01.html) Due
+* **Feb 11** - [Assignment 2](assign/assign02.html) Due
+* **Feb 13 - EXAM I. Take home due in class Monday, Feb 18**
 
 <!--
 * **Jan 29** - Assignment 1 Due

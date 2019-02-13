@@ -21,6 +21,11 @@ All information about the course will be posted here.
 * **Feb 4** - [Assignment 1](assign/assign01.html) Due
 * **Feb 11** - [Assignment 2](assign/assign02.html) Due
 * **Feb 13 - EXAM I. Take home due in class Monday, Feb 18**
+* **Feb 25** - [Assignment 3](assign/assign03.html) Due
+* **Mar 1** - [Assignment 4](assign/assign04.html) Due
+* **Mar 4, 6, 8 - NO CLASS (Winter Break)**
+* **Mar 15** - [Empirical Comparison Report](assign/emp_comp.html) Due
+* **Mar 9 - EXAM II. Take home due in class Wed, Mar 14**
 
 <!--
 * **Jan 29** - Assignment 1 Due

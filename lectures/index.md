@@ -22,6 +22,8 @@ All reading materials are from the course textbook:
 > Feb 18,20 | [Lecture 9: Linear Sorting](../lectures/lecture09.html) | Ch. 8 |
 > Feb 22,25 | [Lecture 10: Probabilistic Analysis](../lectures/lecture10.html) | Ch. 5 |
 > Feb 27    | [Lecture 11: Hash Tables](../lectures/lecture11.html) | Ch. 11 |
+> Mar 11,18 | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
+> Mar 20    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
 
 <!--
 > Mar 5,12  | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |

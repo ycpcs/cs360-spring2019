@@ -22,11 +22,9 @@ Linear sort implementation
 > 
 > 8.1-4 - (I like these n/k hybrid algorithms) Use an argument similar to the original Θ(n lg n) one in Theorem 8.1 and show that 
 >
-> ![image](images/assign04/fact1.png)
+> lg((k!)<sup>n/k</sup>) = Ω(n lg k) 
 >
-> where
->
-> ![image](images/assign04/fact2.png)
+> using the fact that lg(n!) = θ(n lg n) and the definition of θ.
 >
 > 8.3-4 - Consider the *representation* of the integers in a radix other than 10.
 

@@ -24,7 +24,7 @@ Linear sort implementation
 >
 > lg((k!)<sup>n/k</sup>) = Ω(n lg k) 
 >
-> using the fact that lg(n!) = θ(n lg n) and the definition of θ.
+> using the properties of logs and the fact that lg(k!) = θ(k lg k) and the definition of θ.
 >
 > 8.3-4 - Consider the *representation* of the integers in a radix other than 10.
 

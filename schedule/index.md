@@ -27,9 +27,10 @@ All reading materials are from the course textbook:
 > Mar 4,6,8 | **NO CLASS - WINTER BREAK** |    |
 > Mar 11    | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
 > Mar 13     | Exam II Review |    |
-> Mar 15     | **EXAM II - Due Mar 20** <br /> **Empirical Comparison Report Due 3/15**               |             |
+> Mar 15     | **EXAM II - Due Mar 20**         |             |
 > Mar 18    | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
 > Mar 20    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) <br /> [LCS Practice Activity](../handouts/lecture13-LCS-Ex2.pdf) [LCS Solution](../handouts/lecture13-LCS-Ex2Sol.pdf) | Ch. 15 |
+> Mar 22    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) <br /> **Updated Empirical Comparison Report Due 3/20** | Ch. 16 |
 
 <!--
 > Mar 11    | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |

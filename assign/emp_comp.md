@@ -3,7 +3,7 @@ layout: default
 title: "Empirical Comparison Report"
 ---
 
-**Updated Due: Friday, March 22nd in class** Late assignments will be penalized 20% per day.
+**Updated Due: Friday, March 22nd by 11:59pm** Late assignments will be penalized 20% per day.
 
 Empirical Sorting Comparison
 ----------------------------
@@ -25,3 +25,4 @@ The report should include *meaningful* plots (e.g. using Excel) of all the data 
 	
 **DISCUSS** the results in terms of observed behavior (e.g. how well does the asymptotic behavior match the empirical data), comparison of behaviors between sorts (e.g. which ones perform better at which data set sizes), comparison of hidden constants for sorts with the same asymptotic behaviors, and any other important observed features. The discussion should refer to the graphs when appropriate to illustrate each aspect.
 
+**Upload** a .pdf file to [Marmoset](https://cs.ycp.edu/marmoset/login) by **Friday, March 22 at 11:59pm**

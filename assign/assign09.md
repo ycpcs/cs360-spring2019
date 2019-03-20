@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 9"
 ---
 
-**Due: Wednesday, Apr 25th in class** Late assignments will be penalized 20% per day.
+**Due: Wednesday, May 1st in class** Late assignments will be penalized 20% per day.
 
 Book Questions from *Introduction to Algorithms - 3rd ed.*
 ==========================================================

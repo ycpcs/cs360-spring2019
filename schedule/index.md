@@ -36,33 +36,21 @@ All reading materials are from the course textbook:
 > Mar 29    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) | Ch. 22.2 |
 > Apr 1     | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> [DFS Practice Activity](../handouts/lecture17-dfsact.pdf) [DFS Solution](../handouts/lecture17-dfsact-sol.pdf)  | Ch. 22.3 |
 > Apr 3     | [Lecture 18: DFS Applications](../lectures/lecture18.html) <br /> [SCCD Practice Activity](../handouts/lecture18-sccex.pdf) [SCCD Solution](../handouts/lecture18-sccex-sol.pdf) <br /> **Assignment 6 Due 4/3** | Ch. 22.4-22.5 |
-
-<!--
-> Mar 29    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> [DFS Practice Activity](../handouts/lecture17-dfsact.pdf) [DFS Solution](../handouts/lecture17-dfsact-sol.pdf)  | Ch. 22.3 |
-
-
-> Apr 1     | [Lecture 18: DFS Applications](../lectures/lecture18.html) <br /> [SCCD Practice Activity](../handouts/lecture18-sccex.pdf) [SCCD Solution](../handouts/lecture18-sccex-sol.pdf) | Ch. 22.4-22.5 |
-> Apr 3    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) <br /> [Kruskal Practice Activity](../handouts/lecture19-Kruskalact.pdf) [Kruskal Solution](../handouts/lecture19-Kruskalactsol.pdf) <br /> **Assignment 6 Due 4/3** | Ch. 23.1 |
-> Apr 5     | Exam III Review <br /> **Assignment 7 Due 4/4**  |    |
-> Apr 6     | **Exam III - Due Apr 11** |  |
-> Apr 9     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) <br /> [Prim Practice Activity](../handouts/lecture20-Primact.pdf) [Prim Solution](../handouts/lecture20-Primactsol.pdf) | Ch. 23.2 |
-> Mar 30, Apr 2| **NO CLASS - SPRING BREAK** |   |
-> Apr 11    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
-> Apr 13    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) <br /> [SSSP Practice Activity](../handouts/lecture22-ssspact.pdf) [SSSP Solution](../handouts/lecture22-ssspactsol.pdf) | Ch. 24.3 |
-> Apr 13    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
-> Apr 16    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
-> Apr 18    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) <br /> [Max Flow Practice Activity](../handouts/lecture25-maxflowact.pdf) [Max Flow Solution](../handouts/lecture25-maxflowactsol.pdf) <br /> **Assignment 8 Due 4/18** | Ch. 26.2 |
-> Apr 20    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
-> Apr 23    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) <br /> [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.4 |
-> Apr 25    | **Exam IV - Due May 2** <br /> **Assignment 9 Due 4/25** | Ch. 34.5 |
-> Apr 27    | **NO CLASS** |  |
-> Apr 30    | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |
-> May 7,9   | **Final Project Presentations** |  |
--->
-
-
-
-
+> Apr 5    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) <br /> [Kruskal Practice Activity](../handouts/lecture19-Kruskalact.pdf) [Kruskal Solution](../handouts/lecture19-Kruskalactsol.pdf) | Ch. 23.1 |
+> Apr 8     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) <br /> [Prim Practice Activity](../handouts/lecture20-Primact.pdf) [Prim Solution](../handouts/lecture20-Primactsol.pdf)  <br /> **Assignment 7 Due 4/8** | Ch. 23.2 |
+> Apr 10     | **Exam III - Due Apr 15** |  |
+> Apr 12    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
+> Apr 15    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) <br /> [SSSP Practice Activity](../handouts/lecture22-ssspact.pdf) [SSSP Solution](../handouts/lecture22-ssspactsol.pdf) | Ch. 24.3 |
+> Apr 15    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
+> Apr 17    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
+> Apr 19,22 | **NO CLASS - SPRING BREAK** |   |
+> Apr 24    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) <br /> [Max Flow Practice Activity](../handouts/lecture25-maxflowact.pdf) [Max Flow Solution](../handouts/lecture25-maxflowactsol.pdf) <br /> **Assignment 8 Due 4/24** | Ch. 26.2 |
+> Apr 26    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
+> Apr 29    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) <br /> [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.4 |
+> May 1     | Exam IV Review <br /> **Assignment 9 Due 5/1**  | | 
+> May 3     | **Exam IV - Due May 8** | |
+> May 6     | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |
+> May 13,15 | **Final Project Presentations** |  |
 
 
 

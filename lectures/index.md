@@ -23,25 +23,20 @@ All reading materials are from the course textbook:
 > Feb 22,25 | [Lecture 10: Probabilistic Analysis](../lectures/lecture10.html) | Ch. 5 |
 > Feb 27    | [Lecture 11: Hash Tables](../lectures/lecture11.html) | Ch. 11 |
 > Mar 11,18 | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
-> Mar 20    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
-
-<!--
-> Mar 5,12  | [Lecture 12: Dynamic Programming - Rod Cutting](../lectures/lecture12.html) | Ch. 15 |
-> Mar 14    | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
-> Mar 16    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) | Ch. 16 |
-> Mar 19    | [Lecture 15: Graph Theory](../lectures/lecture15.html) | Appendix B.4 |
-> Mar 21    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) | Ch. 22.2 |
-> Mar 23    | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> [Activity solution](../handouts/lecture17-dfsact-sol.pdf) | Ch. 22.3 |
-> Mar 26    | [Lecture 18: DFS Applications](../lectures/lecture18.html) <br /> [Activity solution](../handouts/lecture18-sccex-sol.pdf) | Ch. 22.4-22.5 |
-> Mar 28    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) | Ch. 23.1 |
-> Apr 9     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) | Ch. 23.2 |
-> Apr 11    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
-> Apr 13    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) | Ch. 24.3 |
-> Apr 13    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
-> Apr 16    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
-> Apr 18    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) | Ch. 26.2 |
-> Apr 20    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
-> Apr 23    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) | Ch. 34.4 |
-> Apr 23    | [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.5 |
-> Apr 30    | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |
--->
+> Mar 20,22 | [Lecture 13: Dynamic Programming - LCS](../lectures/lecture13.html) | Ch. 15 |
+> Mar 25    | [Lecture 14: Greedy Algorithms - Activity Selection](../lectures/lecture14.html) | Ch. 16 |
+> Mar 27    | [Lecture 15: Graph Theory](../lectures/lecture15.html) | Appendix B.4 |
+> Mar 29    | [Lecture 16: Breadth-First Search](../lectures/lecture16.html) | Ch. 22.2 |
+> Apr 1     | [Lecture 17: Depth-First Search](../lectures/lecture17.html) <br /> [Activity solution](../handouts/lecture17-dfsact-sol.pdf) | Ch. 22.3 |
+> Apr 3     | [Lecture 18: DFS Applications](../lectures/lecture18.html) <br /> [Activity solution](../handouts/lecture18-sccex-sol.pdf) | Ch. 22.4-22.5 |
+> Apr 5     | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) | Ch. 23.1 |
+> Apr 8     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) | Ch. 23.2 |
+> Apr 12    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
+> Apr 15    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) | Ch. 24.3 |
+> Apr 15    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |
+> Apr 17    | [Lecture 24: Maximal Flow](../lectures/lecture24.html) | Ch. 26.1 |
+> Apr 24    | [Lecture 25: Maximal Flow- Ford-Fulkerson](../lectures/lecture25.html) | Ch. 26.2 |
+> Apr 26    | [Lecture 26: NP Completeness](../lectures/lecture26.html) | Ch. 34.1-34.3 |
+> Apr 29    | [Lecture 27: NP Complete Problems](../lectures/lecture27.html) | Ch. 34.4 |
+> Apr 29    | [Lecture 28: More NP Complete Problems](../lectures/lecture28.html) | Ch. 34.5 |
+> May 6     | [Lecture 29: Approximation Algorithms](../lectures/lecture29.html) | Ch. 35.1-35.2 |

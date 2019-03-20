@@ -26,6 +26,8 @@ All information about the course will be posted here.
 * **Mar 4, 6, 8 - NO CLASS (Winter Break)**
 * **Mar 15 - EXAM II. Take home due in class Wed, Mar 20**
 * **Updated Mar 22** - [Empirical Comparison Report](assign/emp_comp.html) Due
+* **Mar 27** - [Assignment 5](assign/assign05.html) Due
+* **Apr 3** - [Assignment 6](assign/assign06.html) Due
 
 <!--
 * **Jan 29** - Assignment 1 Due

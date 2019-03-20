@@ -12,6 +12,8 @@ This page links to assignment descriptions.
 > Feb 25   | [Assignment 3](../assign/assign03.html)                  | [Assignment 3 Solutions](../assign/sol/assign03sol.pdf) |
 > Mar 1    | [Assignment 4](../assign/assign04.html)                  | [Assignment 4 Solutions](../assign/sol/assign04sol.pdf) |
 > Mar 22   | [Empirical Comparison Report](../assign/emp_comp.html)   |  |
+> Mar 27   | [Assignment 5](../assign/assign05.html)                  |  |
+> Apr 3    | [Assignment 6](../assign/assign06.html)                  |  |
 
 <!--
 > Feb 19   | [Assignment 3](../assign/assign03.html)                  |  |

@@ -38,7 +38,7 @@ All reading materials are from the course textbook:
 > Apr 3     | [Lecture 18: DFS Applications](../lectures/lecture18.html) <br /> [Topological Sort Practice Activity](../handouts/lecture18-topsortact.pdf) [Top Sort Solution](../handouts/lecture18-topsortact-sol.pdf) <br /> [SCCD Practice Activity](../handouts/lecture18-sccex.pdf) [SCCD Solution](../handouts/lecture18-sccex-sol.pdf) <br /> **Assignment 6 Due 4/3** | Ch. 22.4-22.5 |
 > Apr 5    | [Lecture 19: Minimum Spanning Trees - Kruskal](../lectures/lecture19.html) <br /> [Kruskal Practice Activity](../handouts/lecture19-Kruskalact.pdf) [Kruskal Solution](../handouts/lecture19-Kruskalactsol.pdf) | Ch. 23.1 |
 > Apr 8     | [Lecture 20: Minimum Spanning Trees - Prim](../lectures/lecture20.html) <br /> [Prim Practice Activity](../handouts/lecture20-Primact.pdf) [Prim Solution](../handouts/lecture20-Primactsol.pdf)  <br /> **Assignment 7 Due 4/8** | Ch. 23.2 |
-> Apr 10     | **Exam III - Due Apr 15** |  |
+> Apr 10     | **Exam III - Due Apr 17** |  |
 > Apr 12    | [Lecture 21: Shortest Path - Bellman-Ford](../lectures/lecture21.html) | Ch. 24.1-24.2 |
 > Apr 15    | [Lecture 22: Shortest Path - Dijkstra](../lectures/lecture22.html) <br /> [SSSP Practice Activity](../handouts/lecture22-ssspact.pdf) [SSSP Solution](../handouts/lecture22-ssspactsol.pdf) | Ch. 24.3 |
 > Apr 15    | [Lecture 23: Shortest Path - Floyd-Warshall](../lectures/lecture23.html) | Ch. 25 |

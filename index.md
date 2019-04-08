@@ -29,7 +29,7 @@ All information about the course will be posted here.
 * **Mar 27** - [Assignment 5](assign/assign05.html) Due
 * **Apr 3** - [Assignment 6](assign/assign06.html) Due
 * **Apr 8** - [Assignment 7](assign/assign07.html) Due
-* **Apr 10 - EXAM III. Take home due in class Monday, Apr 15**
+* **Apr 10 - EXAM III. Take home due in class Wednesday, Apr 17**
 * **Apr 19, 22 - NO CLASS (Spring Break)**
 * **Apr 24** - [Assignment 8](assign/assign08.html) Due
 * **May 1** - [Assignment 9](assign/assign09.html) Due

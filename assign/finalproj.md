@@ -8,7 +8,7 @@ CS360 Final Project
 
 **Due: Monday, May 13th (101) or May 15th (102) 10:15am-12:15pm (final exam period)**
 
-Email a .pdf of the final report to dbabcock@ycp.edu by 5pm on **May 15th**.
+Upload a .pdf of the final report to [Marmoset](https://cs.ycp.edu/marmoset/login) by 5pm on **May 15th**.
 
 The purpose of this project is to give you a chance to investigate an algorithms topic that we did not cover in class. Section VII of *Cormen, et al.* contains many good topics including multithreaded (parallel) algorithms, matrix operations, linear programming, FFT (Fast Fourier Transform) computation, cryptography algorithms, string matching, convex hulls, approximate solutions for NP complete problems, etc. You may also choose a relevant topic not covered in the book with instructor approval.
 

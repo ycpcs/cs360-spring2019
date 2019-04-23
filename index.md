@@ -34,4 +34,4 @@ All information about the course will be posted here.
 * **Apr 24** - [Assignment 8](assign/assign08.html) Due
 * **May 1** - [Assignment 9](assign/assign09.html) Due
 * **May 3 - EXAM IV. Take home due in class Wed, May 8**
-* **May 13, 15 - Final Project Due.** Email a .pdf to dbabcock@ycp.edu by 5pm on 5/15 for the final report.
+* **May 13, 15 -** [Final Project](assign/finalproj.html) **Due.** Upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 5pm on 5/15 for the final report.

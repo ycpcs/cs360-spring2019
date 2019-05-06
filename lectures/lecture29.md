@@ -27,7 +27,7 @@ The algorithm simply selects an edge (adding the endpoints to the vertex cover) 
 
 *Proof*
 
-Clearly when the algorithm terminates, the set *C* will be a vertex cover (since all edges will be touched by a vertex). Assume line 4 of the algorithm keeps the set of edges *A*. To cover these edges, any vertex cover (including the optimal one *C*<sup>\*</sup>) needs to contain at least one endpoint for each edge. However in *A*, no two edges share an endpoint since once an edge is selected in line 4, all other edges incident to its endpoints are removed. Therefore, no two edges in *A* are covered by the same vertex from *C*<sup>\*</sup> giving
+Clearly when the algorithm terminates, the set *C* will be a vertex cover (since all edges will be touched by a vertex). Assume the random edges the algorithm selects is the set *A*. To cover these edges, any vertex cover (including the optimal one *C*<sup>\*</sup>) needs to contain at least one endpoint for each edge. However in *A*, no two edges share an endpoint since once an edge is selected, all other edges incident to its endpoints are removed. Therefore, no two edges in *A* are covered by the same vertex from *C*<sup>\*</sup> giving
 
 > \|*C*<sup>\*</sup>\| ≥ \|*A*\|
 
